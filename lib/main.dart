@@ -107,7 +107,7 @@ class _MyAppState extends State<MyApp> {
                   isThreeLine: true,
                 ),
                 Center(
-                  child: Text("Hello world 1 3 45 6", style: GoogleFonts.sunshiney(fontSize: 50, color: Colors.green, fontWeight: FontWeight.bold, letterSpacing: 1.5),),
+                  child: Text("Hello world!", style: GoogleFonts.sunshiney(fontSize: 50, color: Colors.green, fontWeight: FontWeight.bold, letterSpacing: 1.5),),
                 ),
               ],
             ),
