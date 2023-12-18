@@ -102,7 +102,7 @@ class _MyAppState extends State<MyApp> {
                     Navigator.of(context).push(MaterialPageRoute(builder: (context)=>ProfilePage()));
                   },
                   onLongPress: (){
-                    print("object");
+                    print("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");
                   },
                   isThreeLine: true,
                 ),
